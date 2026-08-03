@@ -15,7 +15,7 @@ This repository serves as my organized workspace for all course requirements, in
 
 - **Name:** Kyle Veejay Ilumin
 - **Course/Section:** Bachelor of Science in Information Technology (BSIT) – 4th Year
-- **Instructor:** [JENKIELYN TORRES]
+- **Instructor:** JENKIELYN TORRES
 - **School Year:** 2026–2027
 
 ## 📂 Repository Structure

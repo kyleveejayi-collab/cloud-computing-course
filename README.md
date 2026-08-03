@@ -14,8 +14,8 @@ This repository serves as my organized workspace for all course requirements, in
 ## 👤 Student Information
 
 - **Name:** Kyle Veejay Ilumin
-- **Course/Section:** Bachelor of Science in Information Processing (BSIP) – 3rd Year
-- **Instructor:** Juan Dela Cruz *(palitan ng pangalan ng instructor mo)*
+- **Course/Section:** Bachelor of Science in Information Technology (BSIT) – 4th Year
+- **Instructor:** [JENKIELYN TORRES]
 - **School Year:** 2026–2027
 
 ## 📂 Repository Structure
@@ -37,9 +37,13 @@ cloud-computing-course/
 - Version Control with Git & GitHub
 - Cloud Infrastructure Management
 
-## 💡 Markdown Tips
+## 🛠 Tools Used
 
-- Use `#` for headings.
-- Use `*` or `-` for bullet lists.
-- Use `**text**` for bold text.
-- Use `[link text](url)` for hyperlinks.
+- Git
+- GitHub
+- Visual Studio Code
+- Markdown
+
+## 📜 License
+
+This project is licensed under the MIT License.
